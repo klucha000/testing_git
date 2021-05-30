@@ -1,1 +1,9 @@
-This file is for testing purpose.
+This is the text-body of the file I've just created and it's being changed
+
+this is new line 1
+
+this is new line 2
+
+this is new line 3
+
+
